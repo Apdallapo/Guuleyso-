@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Project: Blog</title>
+    <style>
+        body {
+            background: lightpink;
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        h1 {
+            color: rgb(20, 30, 300);
+            font-size: 16px;
+            text-align: center;
+        }
+        #header {
+            color: green;
+            font-size: 20px;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .section {
+            background: white;
+            margin: 20px;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .section h2 {
+            color: blue;
+        }
+        .toc {
+            text-align: center;
+            font-size: 16px;
+        }
+        .toc a {
+            color: red;
+            margin-right: 10px;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>Apdalla's Blog</h1>
+        <p>Bismillah الرحمن الرحيم</p>
+        <p>Talaado, 5 November 2024</p>
+    </div>
+
+    <!-- Table of Contents -->
+    <div class="toc">
+        <h2>My Learning Journey</h2>
+        <a href="#entry1">Heerka Koowaad</a>
+        <a href="#entry2">Heerka Labaad</a>
+        <a href="#entry3">Heerka Sedaxaad</a>
+    </div>
+
+    <!-- Blog Entries -->
+    <div class="section" id="entry1">
+        <h2>Heerka Koowaad</h2>
+        <p>This is the first stage of my journey where I learn the basics of HTML and CSS.</p>
+    </div>
+
+    <div class="section" id="entry2">
+        <h2>Heerka Labaad</h2>
+        <p>In this stage, I am practicing JavaScript to add interactivity to my webpages.</p>
+    </div>
+
+    <div class="section" id="entry3">
+        <h2>Heerka Sedaxaad</h2>
+        <p>Now, I am learning about web frameworks to create dynamic and responsive websites.</p>
+    </div>
+</body>
+</html>
