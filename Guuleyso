@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "Project: Blog"</title>
+    </head>
+    <body>
+    
+    
+         <style>
+         
+           h1 {
+                 color:rgb(20,30,300);
+                 font-size:25px;
+                 font-family:fantasy;
+                 
+             }
+             p {
+                 font-size:1.2em;
+                 font-family:fantasy;}
+             
+             h2{
+                 color:rgb(20,300,100);
+                 font-size:16px;
+                 
+             }
+             h3{ color:rgb(20,300,10);
+                 font-family:fantasy;
+             }
+             
+             h4{ color:rgb(20,300,10); }
+             h5{ color:rgb(200,10,10);}
+             #dugsiga { color:red; }
+             #jaamacad {color:blue; }
+             
+         </style>
+                 <h1> Apdalla's blog</h1>
+              <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/cute/CharacterHornGirl.png" width ="90">
+              <h2><a href="http://www.muuse.cabdi/en/documents/udhe/"></a>safarkayga waxbarasho!</h2>
+            
+            <ol>
+
+                    <li><a href="#dugsiga">heerka koowaad</a></li>
+            <li><a href="#dhexe">heerka labaad.</a></li>
+            <li><a href="#jaamacad">heerka sedaxaad.</a></li>
+       </ol> 
+        
+        <h2> Heerka koowaad(dugsi quraan).</h2>
+        <p id="dugsiga">waxaa dugsiga lay geeyay <br> anigoo jiro lix sano waxaana <br>quraanka dhameeyay anigoo jira<br> sagaal sano waxaana quraanka ku <br>dhameeyay 2.5 sano sidoo kale waxaan ku <br>
+        naqtiimiyay 10 jee.</p>
+       <h3> Heerka labaad dugsiga hoose dhexe.</h3>
+        <p id="dhexe"> waxaan soo dhigtay dugsiga<br> hoose dhexe iyo sare dugsiyada <strong>jaran </strong> <br> <strong>Aayatiin</strong> iyo<strong> Alwadan</strong> waxaana kubilaabay<br> jaran waxaana ku dhameeyay Aayatiin<br> primry and secondry school.</p> 
+        <h4> Heerka sadaxaad univesity</h4>
+        <p id="jaamacad" >waxaan dhigtaa jaaamacada<br> umada soomaaliyeed<br> waxaana ahay heerka koowaad ee jaamacada.</p>
+        <h5 class="mustaqbal">waxyaaba aan rajaynaayo mustaqbalka.</h5>
+    <p id="waxbaro">waxaan rajaynaaayaa in aan noqdo qof waxbarta<strong> waxna isku tara umadana wax utara barta diintiisa kuna dhaqmo sidii oo ilaaheeey noogu waajib yeelay </strong>noqdda aqqonyahaan wayn </p>
+        <h3 class="aqriso"><a href="http://www.un.org/en/documents/udhr/"> Halkaan waxbadan ka aqriso</a></h3>
+
+        <table>
+        <thead>
+        <tbody>
+            <th> magaca
+            <th> school
+            <th> lacagta<td>
+        </tbody>
+        <td> apdalla
+        <td> Aayatiin
+        <td> 100$
+        
+        </thead>
+        <tbody>
+            <td> cali
+            <td> ilays
+            <td> 200$</td>
+            
+        </tbody>
+        <td>muuse
+        <td> marwaazi
+        <td> 300$
+        
+        </table>
+    </body>
+</html>
